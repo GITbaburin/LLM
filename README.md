@@ -1,2 +1,4 @@
 # LLM
-LLM project for document recognition
+LLM project for document recognition. 
+
+## 1.   
